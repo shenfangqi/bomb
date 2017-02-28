@@ -1,0 +1,548 @@
+{
+  "ID": "594464f5-1c6e-4c18-a2b7-ed30cb75b767",
+  "Version": "2.3.4",
+  "Name": "FriendItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 363,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "friend_item_bg.png",
+              "Plist": "gameBody_38.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 34,
+            "Scale9OriginY": 34,
+            "Scale9Width": 36,
+            "Scale9Height": 36,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -600.0,
+            "TopMargin": -124.0,
+            "Tag": 364,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "blank_icon.png",
+                  "Plist": "gameBody_38.plist"
+                },
+                "Scale9OriginX": 33,
+                "Scale9OriginY": 33,
+                "Scale9Width": 34,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.0,
+                  "Y": 62.0
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.09,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.9677
+                },
+                "LeftMargin": -6.0,
+                "RightMargin": 486.0,
+                "TopMargin": 2.0,
+                "BottomMargin": 2.0,
+                "Tag": 399,
+                "ActionTag": 1602666445,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 120.0
+                },
+                "Name": "avatar",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "friend_item_mask.png",
+                  "Plist": "gameBody_38.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 8,
+                "Scale9OriginY": 8,
+                "Scale9Width": 9,
+                "Scale9Height": 9,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 98.0,
+                  "Y": 81.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1633,
+                  "Y": 0.6532
+                },
+                "PreSize": {
+                  "X": 0.45,
+                  "Y": 0.2016
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 98.0,
+                "RightMargin": 232.0,
+                "TopMargin": 18.0,
+                "BottomMargin": 81.0,
+                "Tag": 403,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "末日啪啪啪",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/gh.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "G": 127,
+                      "B": 80
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "StretchWidthEnable": true,
+                    "StretchHeightEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 10.0,
+                      "Y": 13.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.037,
+                      "Y": 0.52
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.04
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 10.0,
+                    "RightMargin": -10.0,
+                    "TopMargin": -1.0,
+                    "Tag": 400,
+                    "ActionTag": -95101969,
+                    "Size": {
+                      "X": 270.0,
+                      "Y": 26.0
+                    },
+                    "Name": "name",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 783347554,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 25.0
+                },
+                "Name": "bgMask",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "friend_item_mask.png",
+                  "Plist": "gameBody_38.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 8,
+                "Scale9OriginY": 8,
+                "Scale9Width": 9,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 98.0,
+                  "Y": 72.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1633,
+                  "Y": 0.5806
+                },
+                "PreSize": {
+                  "X": 0.45,
+                  "Y": 0.2016
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 98.0,
+                "RightMargin": 232.0,
+                "TopMargin": 52.0,
+                "BottomMargin": 47.0,
+                "Tag": 405,
+                "Children": [
+                  {
+                    "LabelText": "战斗力：",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_20.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 10.0,
+                      "Y": 13.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.037,
+                      "Y": 0.48
+                    },
+                    "PreSize": {
+                      "X": 0.2481,
+                      "Y": 0.96
+                    },
+                    "LeftMargin": 10.0,
+                    "RightMargin": 193.0,
+                    "TopMargin": 1.0,
+                    "Tag": 578,
+                    "ActionTag": 1215555804,
+                    "Size": {
+                      "X": 67.0,
+                      "Y": 24.0
+                    },
+                    "Name": "powerLabel",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "12345",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_20.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 13.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3704,
+                      "Y": 0.44
+                    },
+                    "PreSize": {
+                      "X": 0.1889,
+                      "Y": 0.96
+                    },
+                    "LeftMargin": 100.0,
+                    "RightMargin": 119.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": -1.0,
+                    "Tag": 579,
+                    "ActionTag": -762702202,
+                    "Size": {
+                      "X": 51.0,
+                      "Y": 24.0
+                    },
+                    "Name": "power",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 1818585512,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 25.0
+                },
+                "Name": "bgMask",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "friend_item_mask.png",
+                  "Plist": "gameBody_38.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 8,
+                "Scale9OriginY": 8,
+                "Scale9Width": 9,
+                "Scale9Height": 9,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 98.0,
+                  "Y": 26.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1633,
+                  "Y": 0.2097
+                },
+                "PreSize": {
+                  "X": 0.45,
+                  "Y": 0.2016
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 98.0,
+                "RightMargin": 232.0,
+                "TopMargin": 85.5,
+                "BottomMargin": 13.5,
+                "Tag": 36,
+                "Children": [
+                  {
+                    "LabelText": "最后登录：",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/fnt_20.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 10.0,
+                      "Y": 13.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.037,
+                      "Y": 0.48
+                    },
+                    "PreSize": {
+                      "X": 0.3222,
+                      "Y": 0.96
+                    },
+                    "LeftMargin": 10.0,
+                    "RightMargin": 173.0,
+                    "TopMargin": 1.0,
+                    "Tag": 580,
+                    "ActionTag": 1411755745,
+                    "Size": {
+                      "X": 87.0,
+                      "Y": 24.0
+                    },
+                    "Name": "loginTime",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 1354673912,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 25.0
+                },
+                "Name": "bgMaskLoginTime",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 300.0,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7133,
+                  "Y": 0.2177
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 428.0,
+                "RightMargin": 172.0,
+                "TopMargin": 97.0,
+                "BottomMargin": 27.0,
+                "Tag": 104,
+                "ActionTag": -1838882084,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnSendNode",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 512.0,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8533,
+                  "Y": 0.2177
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 512.0,
+                "RightMargin": 88.0,
+                "TopMargin": 97.0,
+                "BottomMargin": 27.0,
+                "Tag": 105,
+                "ActionTag": -231259654,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnAddNode",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 512.0,
+                  "Y": 27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8533,
+                  "Y": 0.2177
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 512.0,
+                "RightMargin": 88.0,
+                "TopMargin": 97.0,
+                "BottomMargin": 27.0,
+                "Tag": 106,
+                "ActionTag": -656295727,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btnDeleteNode",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": 318288066,
+            "Size": {
+              "X": 400.0,
+              "Y": 124.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "font/fnt_20.fnt",
+        "font/fnt_20.png",
+        "font/gh.ttf",
+        "gameBody_38.plist",
+        "gameBody_38.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

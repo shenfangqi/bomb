@@ -1,0 +1,112 @@
+{
+  "ID": "a65abe1b-adfa-435c-b210-1fae240bd0b9",
+  "Version": "2.3.4",
+  "Name": "WinInfo",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 24,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 8.0,
+              "Y": 8.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 8.0,
+            "RightMargin": -8.0,
+            "TopMargin": -8.0,
+            "BottomMargin": 8.0,
+            "Tag": 27,
+            "ActionTag": -1471921088,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "win_image",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "                    ",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5909,
+              "ScaleY": 0.4504
+            },
+            "Position": {
+              "X": 221.0,
+              "Y": 4.9175
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 102.2273,
+            "RightMargin": -303.2273,
+            "TopMargin": -28.0,
+            "BottomMargin": -14.0,
+            "Tag": 29,
+            "ActionTag": 1335758054,
+            "Size": {
+              "X": 201.0,
+              "Y": 42.0
+            },
+            "Name": "winner_nick",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,38 @@
+<script type="text/javascript" src="/cocos2d/test311/cocos2d-js-v3.8.js" charset="UTF-8"></script>
+
+<script language="javascript">
+
+        var SocketIO = SocketIO || window.io;
+
+        options = {
+            'secure':                    false,
+            'connect timeout':           50000000,
+            'forceNew':                  true,
+            'try multiple transports':   true,
+            'reconnection':              false,
+            'sync disconnect on unload': true,
+            'remember transport':        true,
+            'transports': ['websocket', 'flashsocket', 'htmlfile', 'xhr-multipart', 'xhr-polling', 'jsonp-polling']
+        };
+        
+        this._sioClient = SocketIO.connect("http://123.206.87.188:4001",options);
+        this._sioClient.tag = "Cocos2d-JS Client1";
+
+        _parent = this;
+
+        this._sioClient.on('connect',function() {
+            _parent._sioClient.heartbeatTimeout = 5000;
+        });
+
+        this._sioClient.on('connected', function(data) {
+            _parent._sioClient.json.emit('init', {'name': "name", 'nick': "nick"});
+        });
+
+        this._sioClient.on('trace', function(data) {
+            var t2 = parseInt(data.t2);
+            var t1 = Date.parse(new Date());
+            var t3 = t1-t2;
+            console.log("time diff:" + (t2-t1));
+        });
+
+</script>

@@ -1,0 +1,16 @@
+{
+    "debugMode"     : 1,
+    "showFPS" : true,
+    "frameRate"     : 60,
+    "id"            : "gameCanvas",
+    "renderMode"    : 0,
+    "jsList"        : [
+        "src/howler.js",
+        "src/resource.js",
+        "src/StartMenu.js",
+        "src/StartScene.js",
+        "src/Joystick.js",
+        "src/app.js",
+        "src/Popups.js"
+    ]
+}

@@ -1,0 +1,691 @@
+{
+  "ID": "cc7a11f0-1dc5-4bb6-afbb-59e93ac9474b",
+  "Version": "2.3.4",
+  "Name": "FriendItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "friend_item_bg.png",
+              "Plist": "gameBody_38.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 84,
+            "Scale9Height": 84,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 199.0,
+              "Y": 61.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.0,
+            "RightMargin": -399.0,
+            "TopMargin": -123.0,
+            "BottomMargin": -1.0,
+            "Tag": 11,
+            "ActionTag": -1674702988,
+            "Size": {
+              "X": 400.0,
+              "Y": 124.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "friend_item_mask.png",
+              "Plist": "gameBody_38.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 8,
+            "Scale9Width": 9,
+            "Scale9Height": 9,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 223.0,
+              "Y": 91.9175
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 98.0,
+            "RightMargin": -348.0,
+            "TopMargin": -104.4175,
+            "BottomMargin": 79.4175,
+            "Tag": 22,
+            "ActionTag": 1317121723,
+            "Size": {
+              "X": 250.0,
+              "Y": 25.0
+            },
+            "Name": "Image_5",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "friend_item_mask.png",
+              "Plist": "gameBody_38.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 10,
+            "Scale9OriginY": 10,
+            "Scale9Width": 5,
+            "Scale9Height": 5,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 223.0,
+              "Y": 61.9175
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 98.0,
+            "RightMargin": -348.0,
+            "TopMargin": -74.4175,
+            "BottomMargin": 49.4175,
+            "Tag": 24,
+            "ActionTag": -1839901016,
+            "Size": {
+              "X": 250.0,
+              "Y": 25.0
+            },
+            "Name": "Image_5_0",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "friend_item_mask.png",
+              "Plist": "gameBody_38.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 8,
+            "Scale9OriginY": 8,
+            "Scale9Width": 9,
+            "Scale9Height": 9,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 223.0,
+              "Y": 30.08
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 98.0,
+            "RightMargin": -348.0,
+            "TopMargin": -42.58,
+            "BottomMargin": 17.58,
+            "Tag": 25,
+            "ActionTag": 1187474377,
+            "Size": {
+              "X": 250.0,
+              "Y": 25.0
+            },
+            "Name": "Image_5_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 309.0,
+              "Y": 20.9175
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 309.0,
+            "RightMargin": -309.0,
+            "TopMargin": -20.9175,
+            "BottomMargin": 20.9175,
+            "Tag": 26,
+            "ActionTag": -646117692,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "btnSendNode",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "blank_icon.png",
+              "Plist": "gameBody_38.plist"
+            },
+            "Scale9OriginX": 11,
+            "Scale9OriginY": 18,
+            "Scale9Width": 12,
+            "Scale9Height": 21,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 51.0,
+              "Y": 63.0
+            },
+            "Scale": {
+              "ScaleX": 0.7,
+              "ScaleY": 0.7
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -9.0,
+            "RightMargin": -111.0,
+            "TopMargin": -123.0,
+            "BottomMargin": 3.0,
+            "Tag": 8,
+            "ActionTag": 1945180982,
+            "Size": {
+              "X": 120.0,
+              "Y": 120.0
+            },
+            "Name": "avatar",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 117.0,
+              "Y": 90.9175
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 117.0,
+            "RightMargin": -117.0,
+            "TopMargin": -90.9175,
+            "BottomMargin": 90.9175,
+            "Tag": 9,
+            "ActionTag": -842579641,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "bomb_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 148.0,
+              "Y": 90.9175
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 148.0,
+            "RightMargin": -148.0,
+            "TopMargin": -90.9175,
+            "BottomMargin": 90.9175,
+            "Tag": 10,
+            "ActionTag": -1663362049,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "bomb_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 178.0,
+              "Y": 90.9175
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 178.0,
+            "RightMargin": -178.0,
+            "TopMargin": -90.9175,
+            "BottomMargin": 90.9175,
+            "Tag": 11,
+            "ActionTag": -1686412799,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "bomb_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 208.0,
+              "Y": 90.92
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 208.0,
+            "RightMargin": -208.0,
+            "TopMargin": -90.92,
+            "BottomMargin": 90.92,
+            "Tag": 12,
+            "ActionTag": -1553663876,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "bomb_4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 116.5,
+              "Y": 60.0812
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 116.5,
+            "RightMargin": -116.5,
+            "TopMargin": -60.0812,
+            "BottomMargin": 60.0812,
+            "Tag": 13,
+            "ActionTag": 1472975907,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "fire_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 147.5,
+              "Y": 60.0812
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 147.5,
+            "RightMargin": -147.5,
+            "TopMargin": -60.0812,
+            "BottomMargin": 60.0812,
+            "Tag": 14,
+            "ActionTag": -695559588,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "fire_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 177.5,
+              "Y": 60.0812
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 177.5,
+            "RightMargin": -177.5,
+            "TopMargin": -60.0812,
+            "BottomMargin": 60.0812,
+            "Tag": 15,
+            "ActionTag": 1746624175,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "fire_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 207.5,
+              "Y": 60.0838
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 207.5,
+            "RightMargin": -207.5,
+            "TopMargin": -60.0838,
+            "BottomMargin": 60.0838,
+            "Tag": 16,
+            "ActionTag": -1650578101,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "fire_4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 116.5,
+              "Y": 30.0812
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 116.5,
+            "RightMargin": -116.5,
+            "TopMargin": -30.0812,
+            "BottomMargin": 30.0812,
+            "Tag": 17,
+            "ActionTag": -870856184,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ski_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 147.5,
+              "Y": 30.0812
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 147.5,
+            "RightMargin": -147.5,
+            "TopMargin": -30.0812,
+            "BottomMargin": 30.0812,
+            "Tag": 18,
+            "ActionTag": 1936080516,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ski_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 177.5,
+              "Y": 30.0812
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 177.5,
+            "RightMargin": -177.5,
+            "TopMargin": -30.0812,
+            "BottomMargin": 30.0812,
+            "Tag": 19,
+            "ActionTag": -306818098,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ski_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 207.5,
+              "Y": 30.0838
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 207.5,
+            "RightMargin": -207.5,
+            "TopMargin": -30.0838,
+            "BottomMargin": 30.0838,
+            "Tag": 20,
+            "ActionTag": 1493073566,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ski_4",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "gameBody_38.plist",
+        "gameBody_38.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}
